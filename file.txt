@@ -1,0 +1,3 @@
+Info: 2022/06/24 14:42:22 app.go:26: Some info for you
+Warning: 2022/06/24 14:42:22 app.go:27: Be careful
+Error: 2022/06/24 14:42:22 app.go:28: It's over..
